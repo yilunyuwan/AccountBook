@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AccountBook/static/css/main.a21d2ce0.css",
+    "main.js": "/AccountBook/static/js/main.adaf4f7c.js",
+    "index.html": "/AccountBook/index.html",
+    "main.a21d2ce0.css.map": "/AccountBook/static/css/main.a21d2ce0.css.map",
+    "main.adaf4f7c.js.map": "/AccountBook/static/js/main.adaf4f7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a21d2ce0.css",
+    "static/js/main.adaf4f7c.js"
+  ]
+}
